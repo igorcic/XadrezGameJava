@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98f493ee-f16c-4288-9c92-37fa0878d44c" name="Changes" comment="Classe ChessPiece e ChessMatch adicionados assim como o plot do tabuleiro no programa principal">
-      <change afterPath="$PROJECT_DIR$/src/chess/pieces/King.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chess/pieces/Rook.java" afterDir="false" />
+    <list default="true" id="98f493ee-f16c-4288-9c92-37fa0878d44c" name="Changes" comment="Adição do tratamento de erro">
+      <change afterPath="$PROJECT_DIR$/src/boardgame/BoardException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/boardgame/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boardgame/Board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1657472461664</updated>
       <workItem from="1657472463372" duration="3879000" />
-      <workItem from="1657580512133" duration="792000" />
+      <workItem from="1657580512133" duration="2595000" />
     </task>
     <task id="LOCAL-00001" summary="Classe Position na camada BoardGame adicionado">
       <created>1657473197246</created>
@@ -99,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657479189004</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adição de novas peças e modificação da classe board">
+      <created>1657581376846</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657581376846</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +125,8 @@
     <MESSAGE value="Classe Position na camada BoardGame adicionado" />
     <MESSAGE value="Classe Piece e Board adicionados na camada de Boardgame" />
     <MESSAGE value="Classe ChessPiece e ChessMatch adicionados assim como o plot do tabuleiro no programa principal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classe ChessPiece e ChessMatch adicionados assim como o plot do tabuleiro no programa principal" />
+    <MESSAGE value="Adição de novas peças e modificação da classe board" />
+    <MESSAGE value="Adição do tratamento de erro" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adição do tratamento de erro" />
   </component>
 </project>
