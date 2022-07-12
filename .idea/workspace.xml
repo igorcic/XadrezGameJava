@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98f493ee-f16c-4288-9c92-37fa0878d44c" name="Changes" comment="Adição do tratamento de erro">
-      <change afterPath="$PROJECT_DIR$/src/boardgame/BoardException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chess/ChessException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chess/ChessPosition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/boardgame/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boardgame/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +76,7 @@
       <updated>1657472461664</updated>
       <workItem from="1657472463372" duration="3879000" />
       <workItem from="1657580512133" duration="2595000" />
+      <workItem from="1657588118331" duration="1524000" />
     </task>
     <task id="LOCAL-00001" summary="Classe Position na camada BoardGame adicionado">
       <created>1657473197246</created>
@@ -104,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657581376846</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adição do tratamento de erro">
+      <created>1657588148923</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657588148923</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
