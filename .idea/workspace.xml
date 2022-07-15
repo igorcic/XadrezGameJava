@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98f493ee-f16c-4288-9c92-37fa0878d44c" name="Changes" comment="adicionando metodo removePiece na classe Board">
+    <list default="true" id="98f493ee-f16c-4288-9c92-37fa0878d44c" name="Changes" comment="Adicionando movimentação da peça via game">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/boardgame/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boardgame/Board.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/ChessException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +77,7 @@
       <workItem from="1657580512133" duration="2595000" />
       <workItem from="1657588118331" duration="2932000" />
       <workItem from="1657678780805" duration="428000" />
-      <workItem from="1657842697919" duration="1977000" />
+      <workItem from="1657842697919" duration="2590000" />
     </task>
     <task id="LOCAL-00001" summary="Classe Position na camada BoardGame adicionado">
       <created>1657473197246</created>
@@ -131,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657679194164</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Adicionando movimentação da peça via game">
+      <created>1657845128945</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1657845128945</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +160,7 @@
     <MESSAGE value="Adição do tratamento de erro" />
     <MESSAGE value="Adcionado função de pposiccionamento das peças por regras de jogo" />
     <MESSAGE value="adicionando metodo removePiece na classe Board" />
-    <option name="LAST_COMMIT_MESSAGE" value="adicionando metodo removePiece na classe Board" />
+    <MESSAGE value="Adicionando movimentação da peça via game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando movimentação da peça via game" />
   </component>
 </project>
